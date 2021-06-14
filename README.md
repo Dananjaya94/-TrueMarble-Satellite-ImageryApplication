@@ -1,1 +1,0 @@
-# -TrueMarble-Satellite-ImageryApplication
